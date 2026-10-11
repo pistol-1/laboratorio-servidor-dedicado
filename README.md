@@ -60,3 +60,7 @@ Experimento C (modo eventos):
 3. Receptor, unos 4 segundos después: `C receptor: detener y guardar`.
 
 Repetir B y C para cada intervalo. Antes de cada repetición de C conviene reiniciar el servicio de eventos.
+
+#Videos
+https://drive.google.com/file/d/1U3GiINeQn2J0xtiP8w_hQQdJrcbolOkE/view?usp=drive_link
+https://drive.google.com/file/d/1naN47jvfjwNoVOPmZ24_kh8pH0X2ksQI/view?usp=drive_link
