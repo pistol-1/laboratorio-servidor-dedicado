@@ -1,0 +1,4 @@
+intervalMs,distinctValues,expectedValues
+200,3,20
+observedValuesInArrivalOrder
+4;14;20
